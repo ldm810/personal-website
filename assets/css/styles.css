@@ -2,7 +2,7 @@ body,html {
   height: 100%;
   background-color:black;
   color:white;
-  font-family: 'Poiret One', cursive;
+  font-family:  'Poiret One', cursive;
   font-weight: 200;
 }
 
@@ -37,12 +37,10 @@ body {
 a {
   color:#ff52a7;
 }
-a:hover{
-  color:#cf39d8;
- }
- ul.nav a:hover { color: #fff !important; }
+
+a:hover { color: #fff ; }
 
  .navbar-inverse .navbar-nav>li>a {
   color:#ff52a7;
+  font-weight: 400;
 }
- }
